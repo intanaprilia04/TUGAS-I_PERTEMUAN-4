@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "PERTEMUAN_4",
+            "cwd": "PERTEMUAN_4",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "PERTEMUAN_4 (profile mode)",
+            "cwd": "PERTEMUAN_4",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "PERTEMUAN_4 (release mode)",
+            "cwd": "PERTEMUAN_4",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
